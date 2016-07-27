@@ -40,7 +40,6 @@ Switch: 192.168.0.128
 
 ```
 
-
 ## Installation
 
 ### Preparing the Image
